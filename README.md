@@ -1,1 +1,1 @@
-For use, clone the repo and change hostname, user, etc.
+For use, clone the repo and change hostname, user, etc. before rebuilding
